@@ -1,12 +1,13 @@
 _id: spc_0842cd3151094065ac0c9bc3ae665182
 type: ApiSpec
 parentId: wrk_8033f4eaa6e247f6a609ba906b6543f7
-modified: 1729763829518
+modified: 1733480387332
 created: 1729763657119
 fileName: insomnia-git-sync-example.git
-contents: |-
+contents: |+
   some text
 
 
   more text
+
 contentType: yaml
